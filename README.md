@@ -8,9 +8,9 @@
 * [Revisão de Orientação a Objetos II](https://drive.google.com/open?id=1HaT3ysreFU78UPfhLBx4LfWPtiCobwAShKX4VtuiULY)
 * [Revisão de Orientação a Objetos -  Exercício](https://drive.google.com/open?id=1GKCZh0ZdTIcxLqA7bbcwGQNrhL3maYjq6qjs0mx_OtE)
 
-### Servlets, Scriplets e JPA
+### Servlets, Scriplets e ORM
 
-* [Conceitos basicos do JEE e Ambiente de Desenvolvimento](https://drive.google.com/open?id=1CB0iwsM0_4ObUVg8R1vt0xJgspxIAB0RFnpoQxxtTyM) - [Exercício](exercicios/1/)
+* [Conceitos basicos do JEE e Ambiente de Desenvolvimento](https://drive.google.com/open?id=1CB0iwsM0_4ObUVg8R1vt0xJgspxIAB0RFnpoQxxtTyM) - [Exercício](exercicio-3.md/)
 * [Controlador e Tratamento de Exceções](https://drive.google.com/open?id=11fZcs8bvbnQQWO2zkLQ_lG72QFdtQUBm4lZxEvXkVbo)
 * [Scriplet](https://drive.google.com/open?id=1PoKp_cuGV5JDz3spT0O99vCfM7tI4TXBaEXZt8zmwlQ)
 * [Filtros, Sessão e Beans](https://drive.google.com/open?id=12tV9y9xqOaTOnOGGsfyR4wRfcl6zuzssATDhQV0i_Nc)
