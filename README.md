@@ -10,10 +10,11 @@
 
 ### Servlets, Scriplets e JPA
 
-* [Conceitos basicos do JEE e Ambiente de Desenvolvimento](https://drive.google.com/open?id=1CB0iwsM0_4ObUVg8R1vt0xJgspxIAB0RFnpoQxxtTyM)
+* [Conceitos basicos do JEE e Ambiente de Desenvolvimento](https://drive.google.com/open?id=1CB0iwsM0_4ObUVg8R1vt0xJgspxIAB0RFnpoQxxtTyM) - [Exercício](exercicios/1/)
 * [Controlador e Tratamento de Exceções](https://drive.google.com/open?id=11fZcs8bvbnQQWO2zkLQ_lG72QFdtQUBm4lZxEvXkVbo)
 * [Scriplet](https://drive.google.com/open?id=1PoKp_cuGV5JDz3spT0O99vCfM7tI4TXBaEXZt8zmwlQ)
 * [Filtros, Sessão e Beans](https://drive.google.com/open?id=12tV9y9xqOaTOnOGGsfyR4wRfcl6zuzssATDhQV0i_Nc)
-* [MVC, DAO e ORM](https://drive.google.com/open?id=12BBAT_VfTS-3FHkxtGshsEhQAuFzOvG6WzKCpX5vvmM)
+* [ORM - JPA + H2](https://drive.google.com/open?id=1WRHRemml4K8rzmVZU6gzeC9-NkYmnTkvI1bBFGUIDg8)
+* [ORM para Web - MVC e DAO](https://drive.google.com/open?id=12BBAT_VfTS-3FHkxtGshsEhQAuFzOvG6WzKCpX5vvmM)
 
 ### Frameworks de Visão
