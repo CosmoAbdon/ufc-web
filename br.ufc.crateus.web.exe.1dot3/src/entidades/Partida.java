@@ -17,4 +17,9 @@ public class Partida {
 		
 		return "Vencedor : "+ganha+" - Pontuação : "+pganha+"\nPerdedor : "+perde+" - Pontuação : "+pperde;
 	}
+	
+	public String resultadoPartidaIndvIndividual(String ganha, String perde, int pganha, int pperde){
+		
+		return "Vencedor : "+ganha+" - Pontuação : "+pganha+"\nPerdedor : "+perde+" - Pontuação : "+pperde;
+	}
 }

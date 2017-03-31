@@ -20,6 +20,11 @@ public class Atleta implements IAtleta{
 		super();
 	}
 	
+	public String toStringNome()
+	{
+		return this.nome;
+	}
+	
 	@Override
 	public String getNomeExibicao() {
 	return getNome();
