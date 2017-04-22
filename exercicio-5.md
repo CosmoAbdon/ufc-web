@@ -19,7 +19,7 @@ Altere o sistema produzido de exercício 4 utilizando JSP, EL e JSTL em especial
 		* O campo aluno deve apresentar no `select` o nome do aluno
 		* O campo turma deve apresentar no `select` o nome da disciplina e o período 
 	
-	![matricula](images/exercicio5-01.png)
+	![matricula](images/exercicio5-02.png)
 
 	* A listagem de matrículas deve estar abaixo do formulário e deve ser feita utilzando JSTL.
 	* Ao cadastrar uma matrícula, a página deve ser atualizada.
