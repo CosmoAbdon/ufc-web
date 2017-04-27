@@ -22,6 +22,8 @@
   * [Exercício](exercicio-5.md)
   * [Projeto Exemplo](aula5/)
 * [Filtros, Sessão e Beans](https://drive.google.com/open?id=12tV9y9xqOaTOnOGGsfyR4wRfcl6zuzssATDhQV0i_Nc)
+  * [Exercício](exercicio-6.md)
+  * [Projeto Exemplo](aula6/)
 * [ORM - JPA + H2](https://drive.google.com/open?id=1WRHRemml4K8rzmVZU6gzeC9-NkYmnTkvI1bBFGUIDg8)
 * [ORM para Web - MVC e DAO](https://drive.google.com/open?id=12BBAT_VfTS-3FHkxtGshsEhQAuFzOvG6WzKCpX5vvmM)
 
