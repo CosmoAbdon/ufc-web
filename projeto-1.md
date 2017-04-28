@@ -14,6 +14,7 @@ Sobre persistência:
 Sobre autenticação:
 - deve conter um mecanismo de autenticação e controle de acesso.
 - deve ter pelo menos 2 perfis de usuário com permissões distintas.
+- o sistema também deve possuir conteúdo aberto (acessível a usuários não logados) que apresente informações de entidades do sistemas
 
 Sobre a complexidade de modelo de entidades:
 - deve conter CRUD de pelo menos 5 entidades.
