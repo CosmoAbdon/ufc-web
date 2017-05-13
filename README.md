@@ -28,7 +28,9 @@
   * [Exercício](exercicio-7.md)
   * [Projeto Exemplo](aula7/)
 * [ORM para Web - MVC e DAO](https://drive.google.com/open?id=12BBAT_VfTS-3FHkxtGshsEhQAuFzOvG6WzKCpX5vvmM)
-
-### [Projeto 1](projeto-1.md) - Prazo: 17 de maio
+  * [Exercício](exercicio-8.md)
+  * [Projeto Exemplo](aula8/)
+  
+### [Projeto 1](projeto-1.md) - Prazo: 18 de maio
 
 ### Frameworks de Visão
