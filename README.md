@@ -34,6 +34,7 @@
 ### [Projeto 1](projeto-1.md) - Prazo: 18 de maio
 
 ### Frameworks de Visão
+* Referência: Livro [Java EE 7 com JSF, PrimeFaces e CDI](http://s3.amazonaws.com/algaworks-assets/ebooks/algaworks-ebook-java-ee-7-com-jsf-primefaces-e-cdi-2a-edicao-20150228.pdf)
 * [Introdução a Java Server Faces - JSF](https://drive.google.com/open?id=1DiDCP-XvMW-sXuFTDTu8joyTpAZCwk_gN1I9nhE_YAc) 
   * [Exercício](exercicio-9.md)
   * [Projeto Exemplo](aula9/)
