@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"
+	xmlns:h="http://java.sun.com/jsf/html"
+	xmlns:f="http://java.sun.com/jsf/core">
+<h:head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<title>Insert title here</title>
+</h:head>
+
+<h:body>
+
+	<h1>
+		Disciplina
+	</h1>
+	<br />
+
+	<h:form>
+		<h:outputText value="Id: #{disciplinaBean.disciplina.id}"
+			rendered="#disciplinaBean.disciplina.id > 0}"></h:outputText>
+		<br />
+		<h:inputHidden value="#{disciplinaBean.disciplina.id}"></h:inputHidden>
+		Nome: <h:inputText value="#{disciplinaBean.disciplina.nome}"></h:inputText>
+		<br />
+		Créditos: <h:inputText value="#{disciplinaBean.disciplina.creditos}"></h:inputText>
+		<br />
+		<h:commandButton action="#{disciplinaBean.salvar()}" value="Salvar"></h:commandButton>
+	</h:form>
+	<br />
+	<h3>Disciplinas</h3>
+	<h:dataTable value="#{disciplinaBean.disciplinas}" var="a" border="1">
+		<h:column>
+			<f:facet name="header">
+				Id
+			</f:facet>
+			<h:outputText value="#{a.id}"></h:outputText>
+		</h:column>
+		<h:column>
+			<f:facet name="header">
+				Nome
+			</f:facet>
+			<h:outputText value="#{a.nome}"></h:outputText>
+		</h:column>
+		<h:column>
+			<f:facet name="header">
+				Créditos
+			</f:facet>
+			<h:outputText value="#{a.creditos}"></h:outputText>
+		</h:column>
+		<h:column>
+			<f:facet name="header">
+				Acoes
+			</f:facet>
+			<h:form>
+				<h:commandButton value="Editar" action="#{disciplinaBean.carregar(a)}"></h:commandButton>
+				<h:commandButton value="Remover" action="#{disciplinaBean.remover(a)}"></h:commandButton>
+			</h:form>
+		</h:column>
+	</h:dataTable>
+
+</h:body>
+</html>
